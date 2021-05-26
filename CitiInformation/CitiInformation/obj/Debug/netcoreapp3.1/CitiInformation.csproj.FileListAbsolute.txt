@@ -1,0 +1,91 @@
+C:\Users\lenovo\source\repos\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lenovo\source\repos\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lenovo\source\repos\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\CitiInformation.exe
+C:\Users\lenovo\source\repos\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\CitiInformation.deps.json
+C:\Users\lenovo\source\repos\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\CitiInformation.runtimeconfig.json
+C:\Users\lenovo\source\repos\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\CitiInformation.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\CitiInformation.dll
+C:\Users\lenovo\source\repos\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\CitiInformation.pdb
+C:\Users\lenovo\source\repos\CitiInformation\CitiInformation\obj\Debug\netcoreapp3.1\CitiInformation.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CitiInformation\CitiInformation\obj\Debug\netcoreapp3.1\CitiInformation.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CitiInformation\CitiInformation\obj\Debug\netcoreapp3.1\CitiInformation.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CitiInformation\CitiInformation\obj\Debug\netcoreapp3.1\CitiInformation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\source\repos\CitiInformation\CitiInformation\obj\Debug\netcoreapp3.1\staticwebassets\CitiInformation.StaticWebAssets.Manifest.cache
+C:\Users\lenovo\source\repos\CitiInformation\CitiInformation\obj\Debug\netcoreapp3.1\staticwebassets\CitiInformation.StaticWebAssets.xml
+C:\Users\lenovo\source\repos\CitiInformation\CitiInformation\obj\Debug\netcoreapp3.1\scopedcss\bundle\CitiInformation.styles.css
+C:\Users\lenovo\source\repos\CitiInformation\CitiInformation\obj\Debug\netcoreapp3.1\CitiInformation.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\source\repos\CitiInformation\CitiInformation\obj\Debug\netcoreapp3.1\CitiInformation.dll
+C:\Users\lenovo\source\repos\CitiInformation\CitiInformation\obj\Debug\netcoreapp3.1\CitiInformation.pdb
+C:\Users\lenovo\source\repos\CitiInformation\CitiInformation\obj\Debug\netcoreapp3.1\CitiInformation.genruntimeconfig.cache
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\appsettings.json
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\CitiInformation.exe
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\CitiInformation.deps.json
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\CitiInformation.runtimeconfig.json
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\CitiInformation.runtimeconfig.dev.json
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\CitiInformation.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\CitiInformation.pdb
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\obj\Debug\netcoreapp3.1\CitiInformation.csprojAssemblyReference.cache
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\obj\Debug\netcoreapp3.1\CitiInformation.AssemblyInfoInputs.cache
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\obj\Debug\netcoreapp3.1\CitiInformation.AssemblyInfo.cs
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\obj\Debug\netcoreapp3.1\CitiInformation.csproj.CoreCompileInputs.cache
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\obj\Debug\netcoreapp3.1\CitiInformation.MvcApplicationPartsAssemblyInfo.cache
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\obj\Debug\netcoreapp3.1\staticwebassets\CitiInformation.StaticWebAssets.Manifest.cache
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\obj\Debug\netcoreapp3.1\staticwebassets\CitiInformation.StaticWebAssets.xml
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\obj\Debug\netcoreapp3.1\scopedcss\bundle\CitiInformation.styles.css
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\obj\Debug\netcoreapp3.1\CitiInformation.RazorTargetAssemblyInfo.cache
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\obj\Debug\netcoreapp3.1\CitiInformation.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\obj\Debug\netcoreapp3.1\CitiInformation.pdb
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\obj\Debug\netcoreapp3.1\CitiInformation.genruntimeconfig.cache
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\obj\Debug\netcoreapp3.1\CitiInformation.csproj.CopyComplete
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\Humanizer.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\AutoMapper.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\CitiInformation\CitiInformation\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

@@ -1,0 +1,20 @@
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\Sold.Machine\Sold Machine Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\Sold.Machine\Sold Machine Project\bin\Debug\netcoreapp3.1\appsettings.json
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\Sold.Machine\Sold Machine Project\bin\Debug\netcoreapp3.1\Sold Machine Project.exe
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\Sold.Machine\Sold Machine Project\bin\Debug\netcoreapp3.1\Sold Machine Project.deps.json
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\Sold.Machine\Sold Machine Project\bin\Debug\netcoreapp3.1\Sold Machine Project.runtimeconfig.json
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\Sold.Machine\Sold Machine Project\bin\Debug\netcoreapp3.1\Sold Machine Project.runtimeconfig.dev.json
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\Sold.Machine\Sold Machine Project\bin\Debug\netcoreapp3.1\Sold Machine Project.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\Sold.Machine\Sold Machine Project\bin\Debug\netcoreapp3.1\Sold Machine Project.pdb
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\Sold.Machine\Sold Machine Project\obj\Debug\netcoreapp3.1\Sold Machine Project.csprojAssemblyReference.cache
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\Sold.Machine\Sold Machine Project\obj\Debug\netcoreapp3.1\Sold Machine Project.AssemblyInfoInputs.cache
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\Sold.Machine\Sold Machine Project\obj\Debug\netcoreapp3.1\Sold Machine Project.AssemblyInfo.cs
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\Sold.Machine\Sold Machine Project\obj\Debug\netcoreapp3.1\Sold Machine Project.csproj.CoreCompileInputs.cache
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\Sold.Machine\Sold Machine Project\obj\Debug\netcoreapp3.1\Sold Machine Project.MvcApplicationPartsAssemblyInfo.cache
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\Sold.Machine\Sold Machine Project\obj\Debug\netcoreapp3.1\staticwebassets\Sold Machine Project.StaticWebAssets.Manifest.cache
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\Sold.Machine\Sold Machine Project\obj\Debug\netcoreapp3.1\staticwebassets\Sold Machine Project.StaticWebAssets.xml
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\Sold.Machine\Sold Machine Project\obj\Debug\netcoreapp3.1\scopedcss\bundle\Sold Machine Project.styles.css
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\Sold.Machine\Sold Machine Project\obj\Debug\netcoreapp3.1\Sold Machine Project.RazorTargetAssemblyInfo.cache
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\Sold.Machine\Sold Machine Project\obj\Debug\netcoreapp3.1\Sold Machine Project.dll
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\Sold.Machine\Sold Machine Project\obj\Debug\netcoreapp3.1\Sold Machine Project.pdb
+H:\KLINGELNBERG\Training Assignments\RESTful Web APIs\Sold.Machine\Sold Machine Project\obj\Debug\netcoreapp3.1\Sold Machine Project.genruntimeconfig.cache
