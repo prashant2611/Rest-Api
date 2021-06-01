@@ -8,6 +8,7 @@ namespace Sold.Machine.Service
     public class FileReader
     {
         private string path;
+        int count = 0;
 
         public FileReader(string path)
         {
@@ -33,10 +34,11 @@ namespace Sold.Machine.Service
         AssetInfo ReadAssetFromFile(string fileLine)
         {
             string[] parts = fileLine.Split(',');
+            int id = ++count;
             string machineName = parts[0];
             string assetName = parts[1];
             string assetSeries = parts[2];
-            AssetInfo asset = new AssetInfo(machineName, assetName, assetSeries);
+            AssetInfo asset = new AssetInfo(id,machineName, assetName, assetSeries);
             return asset;
         }
     }

@@ -2,8 +2,10 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc.Formatters;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Sold_Machine_Project.Contexts;
 using Sold_Machine_Project.Services;
 using System;
 using System.Collections.Generic;
@@ -24,6 +26,12 @@ namespace Sold_Machine_Project
                     o.OutputFormatters.Add(new XmlDataContractSerializerOutputFormatter());
                 });
 
+            var ConnectionString = @"Server=(localdb)\MSSQLLocalDB;Database=AssetsDB;Trusted_Connection=True;";
+            services.AddDbContext<AssetsInfoContext>(o =>
+            {
+                o.UseSqlServer(ConnectionString);
+            });
+
             services.AddScoped<IMachineDetailRepository,MachineDetailRepository>();
         }
 
@@ -33,6 +41,10 @@ namespace Sold_Machine_Project
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+            }
+            else
+            {
+                app.UseExceptionHandler();
             }
 
             app.UseRouting();
